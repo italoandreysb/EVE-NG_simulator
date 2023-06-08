@@ -4,8 +4,8 @@ video referencia: https://www.youtube.com/watch?v=17fpe5oqce8&t=839s
 
 Gerencia default:
 ```
-	Acesso Web: admin | eve
-	Acesso FTP: root | eve
+Acesso Web: admin | eve
+Acesso FTP: root | eve
 ```
 Se der erro ao rodar o server: 
 	https://www.youtube.com/watch?v=6f1Qckg2Zx0&t=183s
