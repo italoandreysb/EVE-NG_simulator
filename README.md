@@ -2,7 +2,7 @@
 ## Instalando o sistema
 video referencia: https://www.youtube.com/watch?v=17fpe5oqce8&t=839s
 
-Gerencia default:
+Gerência padrão:
 ```
 Acesso Web: admin | eve
 Acesso FTP: root | eve
